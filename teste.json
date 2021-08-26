@@ -113,7 +113,7 @@
     "latitude" : -19.939634,
     "longitude" : -44.068420
   },
- {
+  {
     "key" : "DIQ1",
     "name" : "Divinopolis-CTBC",
     "latitude" : -20.112795,
@@ -125,3 +125,4 @@
     "latitude" : -20.112795,
     "longitude" : -44.939091
   }
+  ]
