@@ -148,5 +148,400 @@
     "name" : "Feira de Santana-OI",
     "latitude" : -12.279862,
     "longitude" : -38.952860
+  },
+    "key" : "FLN1",
+    "name" : "Florianopolis-EBT",
+    "latitude" : -27.481547,
+    "longitude" : -48.658523
+  },
+  {
+    "key" : "FLN2",
+    "name" : "Florianopolis-NEOREDE",
+    "latitude" : -27.481547,
+    "longitude" : -48.661523
+  },
+   {
+    "key" : "FOR1",
+    "name" : "Fortaleza-EBT",
+    "latitude" : -3.842626,
+    "longitude" : -38.593869
+  },  
+  {
+    "key" : "FOR2",
+    "name" : "Fortaleza-MOBTELECOM",
+    "latitude" : -3.842626,
+    "longitude" : -38.596869
+  },
+  {
+    "key" : "GVR1",
+    "name" : "Governador Valadares-AMERICANTOWER",
+    "latitude" : -18.889826,
+    "longitude" : -42.003638
+  },
+  {
+    "key" : "GVR2",
+    "name" : "Governador Valadares-IBITELECOM",
+    "latitude" : -18.889826,
+    "longitude" : -42.006638
+  },  
+  {
+    "key" : "IPN1",
+    "name" : "Ipatinga-AMERICANTOWER",
+    "latitude" : -19.510461,
+    "longitude" : -42.605964
+  },  
+  {
+    "key" : "IPN2",
+    "name" : "Ipatinga-NOVONET",
+    "latitude" : -19.510461,
+    "longitude" : -42.608964
+  },
+  {
+    "key" : "IOI1",
+    "name" : "Itaborai-NEXT PROVEDORA",
+    "latitude" : -22.755432,
+    "longitude" : -42.893874
+  },
+  {
+    "key" : "IOI2",
+    "name" : "Itaborai-WCS",
+    "latitude" : -22.755432,
+    "longitude" : -42.896874
+  },
+  {
+    "key" : "ITN1",
+    "name" : "Itabuna-EBT",
+    "latitude" : -14.864164,
+    "longitude" : -40.763854
+  },
+  {
+    "key" : "ITN2",
+    "name" : "Itabuna-INFORBOOK",
+    "latitude" : -14.864164,
+    "longitude" : -40.767854
+  },
+  {
+    "key" : "JMV1",
+    "name" : "Joao Monlevade",
+    "latitude" : -19.842931,
+    "longitude" : -43.203608
+  },    
+  {
+    "key" : "JMV2",
+    "name" : "Joao Monlevade",
+    "latitude" : -19.842931,
+    "longitude" : -43.206608
+  },
+  {
+    "key" : "JOI1",
+    "name" : "Joinville-EBT",
+    "latitude" : -26.246016,
+    "longitude" : -48.909243
+  },
+  {
+    "key" : "JOI2",
+    "name" : "Joinville-UNIFIQUE",
+    "latitude" : -26.246016,
+    "longitude" : -48.912243
+  },
+  {
+    "key" : "JDF1",
+    "name" : "Juiz de Fora-AMERICANTOWER",
+    "latitude" : -21.634838,
+    "longitude" : -43.458299
+  },
+  {
+    "key" : "JDF2",
+    "name" : "Juiz de Fora-SUPERONDA",
+    "latitude" : -21.634838,
+    "longitude" : -43.461299
+  },  
+  {
+    "key" : "MHA1",
+    "name" : "Manhuacu-MICRON",
+    "latitude" : -25.760626,
+    "longitude" : -53.538337
+  },
+  {
+    "key" : "MHA2",
+    "name" : "Manhuacu-OI",
+    "latitude" : -25.760626,
+    "longitude" : -53.541337
+  },
+  {
+    "key" : "MOC1",
+    "name" : "Montes Claros-ATC",
+    "latitude" : -16.766685,
+    "longitude" : -43.874688
+  },  
+  {
+    "key" : "MOC2",
+    "name" : "Montes Claros-VOX",
+    "latitude" : -16.766685,
+    "longitude" : -43.877688
+  },
+  {
+    "key" : "NSE1",
+    "name" : "Nova Serrana-AMERICANTOWER",
+    "latitude" : -19.871879,
+    "longitude" : -45.005833
+  },  
+  {
+    "key" : "NSE2",
+    "name" : "Nova Serrana-ALGAR",
+    "latitude" : -19.871879,
+    "longitude" : -45.008833
+  },  
+  {
+    "key" : "QHV1",
+    "name" : "Novo Hamburgo-ALGAR",
+    "latitude" : -29.706298,
+    "longitude" : -51.137316
+  },
+  {
+    "key" : "QHV2",
+    "name" : "Novo Hamburgo-EBT",
+    "latitude" : -29.706298,
+    "longitude" : -51.140316
+  },    
+  {
+    "key" : "PSW1",
+    "name" : "Passos-AMERICANTOWER",
+    "latitude" : -20.740518,
+    "longitude" :  -46.612173
+  },
+  {
+    "key" : "PSW2",
+    "name" : "Passos-MASTER",
+    "latitude" : -20.740518,
+    "longitude" :  -46.615173
+  },  
+  {
+    "key" : "PTM1",
+    "name" : "Patos de Minas-CTBC",
+    "latitude" : -18.624130,
+    "longitude" : -46.498763
+  },
+  {
+    "key" : "PTM2",
+    "name" : "Patos de Minas-UAIMAX",
+    "latitude" : -18.624130,
+    "longitude" : -46.500763
+  },    
+  {
+    "key" : "PNZ1",
+    "name" : "Petrolina-ATEL",
+    "latitude" : -9.393941,
+    "longitude" : -40.521190
+  },
+  {
+    "key" : "PNZ2",
+    "name" : "Petrolina-OITELECOM",
+    "latitude" : -9.393941,
+    "longitude" : -40.524190
+  },    
+  {
+    "key" : "PPY1",
+    "name" : "Pouso Alegre-ALGAR",
+    "latitude" : -22.275569,
+    "longitude" : -45.893438
+  },
+  {
+    "key" : "PPY2",
+    "name" : "Pouso Alegre-EBT",
+    "latitude" : -22.275569,
+    "longitude" : -45.896438
+  },    
+  {
+    "key" : "PPB1",
+    "name" : "Presidente Prudente-CABONNET",
+    "latitude" : -22.120342,
+    "longitude" : -51.437875
+  },
+  {
+    "key" : "PPB2",
+    "name" : "Presidente Prudente-STETNET",
+    "latitude" : -22.120342,
+    "longitude" : -51.438175
+  },    
+  {
+    "key" : "RAO1",
+    "name" : "Riberao Preto-ALGAR",
+    "latitude" : -21.208412,
+    "longitude" : -47.752293
+  },
+   {
+    "key" : "RAO2",
+    "name" : "Riberao Preto-RADIOBRAS",
+    "latitude" : -21.208412,
+    "longitude" : -47.755293
+  },    
+  {
+    "key" : "RIO1",
+    "name" : "Rio de Janeiro-ALGAR",
+    "latitude" : -22.749996,
+    "longitude" : -43.287496
+  },
+  {
+    "key" : "RIO2",
+    "name" : "Rio de Janeiro-WCS",
+    "latitude" : -22.749996,
+    "longitude" : -43.290496
+  },
+  {
+    "key" : "SSA1",
+    "name" : "Salvador-EBT",
+    "latitude" : -12.829212,
+    "longitude" : -38.412879
+  },
+  {
+    "key" : "SSA2",
+    "name" : "Salvador-ITS",
+    "latitude" : -12.829212,
+    "longitude" : -38.415879
+  },    
+  {
+    "key" : "SAJ1",
+    "name" : "Santo Antonio de Jesus-ITS",
+    "latitude" : -12.977427,
+    "longitude" : -39.281961
+  },
+  {
+    "key" : "SAJ2",
+    "name" : "Santo Antonio de Jesus-OI",
+    "latitude" : -12.977427,
+    "longitude" : -39.284961
+  },    
+  {
+    "key" : "SJP1",
+    "name" : "Sao Jose do Rio Preto-AMERICANET",
+    "latitude" : -20.802088,
+    "longitude" : -49.351101
+  },
+  {
+    "key" : "SJP2",
+    "name" : "Sao Jose do Rio Preto-N4TELECOM",
+    "latitude" : -20.802088,
+    "longitude" : -49.354101
+  },     
+  {
+    "key" : "SJK1",
+    "name" : "Sao Jose dos Campos-AMERICANET",
+    "latitude" : -23.264997,
+    "longitude" : -45.915938
+  },
+  {
+    "key" : "SJK2",
+    "name" : "Sao Jose dos Campos-NIPCABLE",
+    "latitude" : -23.264997,
+    "longitude" : -45.915938
+  },    
+  {
+    "key" : "SAO1",
+    "name" : "Sao Paulo-EBT",
+    "latitude" : -23.478396,
+    "longitude" : -46.529883
+  },
+  {
+    "key" : "SAO2",
+    "name" : "Sao Paulo-WCS",
+    "latitude" : -23.478396,
+    "longitude" : -46.532883
+  },    
+  {
+    "key" : "SEI1",
+    "name" : "Senhor do Bonfim-INFORNET",
+    "latitude" : -10.477657,
+    "longitude" : -40.175288
+  },
+  {
+    "key" : "SEI2",
+    "name" : "Senhor do Bonfim-OI",
+    "latitude" : -10.477657,
+    "longitude" : -40.178288
+  },   
+  {
+    "key" : "QHG1",
+    "name" : "Sete Lagoas-AMERICANTOWER",
+    "latitude" : -19.489595,
+    "longitude" : -44.276165
+  },
+  {
+    "key" : "QHG2",
+    "name" : "Sete Lagoas-SYSVOIP",
+    "latitude" : -19.489595,
+    "longitude" : -44.279165
+  },    
+  {
+    "key" : "TFL1",
+    "name" : "Teofilo Otoni-AMERICANTOWER",
+    "latitude" : -17.846755,
+    "longitude" : -41.487021
+  },
+  {
+    "key" : "TFL2",
+    "name" : "Teofilo Otoni-VIP",
+    "latitude" : -17.846755,
+    "longitude" : -41.490021
+  },    
+  {
+    "key" : "UBA1",
+    "name" : "Uberaba-ALGAR",
+    "latitude" : -19.736372
+    "longitude" : -47.978206
+  },
+  {
+    "key" : "UBA2",
+    "name" : "Uberaba-EBT",
+    "latitude" : -19.736372
+    "longitude" : -47.981206
+  },     
+  {
+    "key" : "UDI1",
+    "name" : "Uberlandia-AMERICANTOWER",
+    "latitude" : -18.884682,
+    "longitude" : -48.311143
+  },
+  {
+    "key" : "UDI2",
+    "name" : "Uberlandia-ALGAR",
+    "latitude" : -18.884682,
+    "longitude" : -48.314143
+  },  
+   {
+    "key" : "VAG1",
+    "name" : "Varginha-AMERICANTOWER",
+    "latitude" : -21.633936,
+    "longitude" : -45.410316
+  },
+  {
+    "key" : "VAG2",
+    "name" : "Varginha-NETVGA",
+    "latitude" : -21.633936,
+    "longitude" : -45.413316
+  },    
+  {
+    "key" : "VIX1",
+    "name" : "Vitoria-DINAMICA",
+    "latitude" : -20.377361,
+    "longitude" : -40.447503
+  },
+  {
+    "key" : "VIX2",
+    "name" : "Vitoria-EBT",
+    "latitude" : -20.377361,
+    "longitude" : -40.450503
+  },  
+  {
+    "key" : "VDC1",
+    "name" : "Vitoria da Conquista-LINET",
+    "latitude" : -12.579230,
+    "longitude" : -39.511767
+  },
+  {
+    "key" : "VDC2",
+    "name" : "Vitoria da Conquista-OI",
+    "latitude" : -12.579230,
+    "longitude" : -39.514767
   }
   ]
