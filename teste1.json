@@ -124,5 +124,30 @@
     "name" : "Divinopolis-NET",
     "latitude" : -20.112795,
     "longitude" : -44.939091
-  }
+  },
+  {
+    "key" : "EXA1",
+    "name" : "Extrema-DAF_REDENILF",
+    "latitude" : -22.875744,
+    "longitude" : -46.355781
+  },
+  {
+    "key" : "EXA2",
+    "name" : "Extrema-SBF_REDENILF",
+    "latitude" : -22.875744,
+    "longitude" : -46.385781
+  },
+  {
+    "key" : "FEC1",
+    "name" : "Feira de Santana-EBT",
+    "latitude" : -12.279862,
+    "longitude" : -38.922860
+  },
+  {
+    "key" : "FEC2",
+    "name" : "Feira de Santana-OI",
+    "latitude" : -12.279862,
+    "longitude" : -38.952860
+  }, 
+  {
   ]
