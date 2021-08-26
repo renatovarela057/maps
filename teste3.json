@@ -488,13 +488,13 @@
   {
     "key" : "UBA1",
     "name" : "Uberaba-ALGAR",
-    "latitude" : -19.736372
+    "latitude" : -19.736372,
     "longitude" : -47.978206
   },
   {
     "key" : "UBA2",
     "name" : "Uberaba-EBT",
-    "latitude" : -19.736372
+    "latitude" : -19.736372,
     "longitude" : -47.981206
   },     
   {
