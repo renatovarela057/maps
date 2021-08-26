@@ -1,0 +1,127 @@
+[
+  {
+    "key" : "AJU1",
+    "name" : "Aracaju-EBT",
+    "latitude" : -10.9033,
+    "longitude" : -37.1327
+  },
+  {
+    "key" : "AJU2",
+    "name" : "Aracaju-MASTER_RADIO",
+    "latitude" : -10.9033,
+    "longitude" : -37.1358
+  },    
+  {
+    "key" : "BAU1",
+    "name" : "Bauru-NOROESTE",
+    "latitude" : -22.3657,
+    "longitude" : -49.0380
+  },
+  {
+    "key" : "BAU2",
+    "name" : "Bauru-ULTRAWAVE",
+    "latitude" : -22.3657,
+    "longitude" : -49.0410
+  },  
+  {
+    "key" : "BNU1",
+    "name" : "Blumenau-EBT",
+    "latitude" : -26.8431,
+    "longitude" : -49.0817
+  },
+  {
+    "key" : "BNU2",
+    "name" : "Blumenau-UNIFIQUE",
+    "latitude" : -26.8431,
+    "longitude" : -49.0847
+  },    
+  {
+    "key" : "lAZ",
+    "name" : "Bom Jesus da Lapa-POLLYNET",
+    "latitude" : -13.132288,
+    "longitude" : -43.433419
+  },
+  {
+    "key" : "QXD1",
+    "name" : "Cachoeiro do Itapemirim-EBT",
+    "latitude" : -20.790634,
+    "longitude" : -41.153881
+  },
+  {
+    "key" : "QXD2",
+    "name" : "Cachoeiro do Itapemirim-VOXBRAS",
+    "latitude" : -20.790634,
+    "longitude" : -41.156881
+  } ,    
+  {
+    "key" : "CPQ1",
+    "name" : "Campinas-EBT",
+    "latitude" : -22.902690,
+    "longitude" : -47.198262
+  },
+  {
+    "key" : "CPQ2",
+    "name" : "Campinas-WCS",
+    "latitude" : -22.902690,
+    "longitude" : -47.201262
+  },  
+   {
+    "key" : "CAW1",
+    "name" : "Campos dos Goytacazes-NTS1",
+    "latitude" : -21.765177,
+    "longitude" : -41.345021
+  },
+  {
+    "key" : "CAW2",
+    "name" : "Campos dos Goytacazes-WCS",
+    "latitude" : -21.765177,
+    "longitude" : -41.348021
+  },  
+  {
+    "key" : "CTN1",
+    "name" : "Colatina-INTERCOL",
+    "latitude" : -19.505188,
+    "longitude" : -40.596765
+  },
+  {
+    "key" : "CTN2",
+    "name" : "Colatina-OI",
+    "latitude" : -19.505188,
+    "longitude" : -40.599765
+  },
+  {
+    "key" : "QDF1",
+    "name" : "Conselheiro Lafaiete-AMERICANTOWER",
+    "latitude" : -20.628545,
+    "longitude" : -43.813280
+  },
+  {
+    "key" : "QDF2",
+    "name" : "Conselheiro Lafaiete-VERO",
+    "latitude" : -20.628545,
+    "longitude" : -43.816280
+  },  
+  {
+    "key" : "CON1",
+    "name" : "Contagem-AMERICANTOWER_BGP",
+    "latitude" : -19.939634,
+    "longitude" : -44.065420
+  },
+  {
+    "key" : "CON2",
+    "name" : "Contagem-AMERICANTOWER_SEMBGP",
+    "latitude" : -19.939634,
+    "longitude" : -44.068420
+  },
+ {
+    "key" : "DIQ1",
+    "name" : "Divinopolis-CTBC",
+    "latitude" : -20.112795,
+    "longitude" : -44.909091
+  },
+  {
+    "key" : "DIQ2",
+    "name" : "Divinopolis-NET",
+    "latitude" : -20.112795,
+    "longitude" : -44.939091
+  }
